@@ -1,0 +1,1 @@
+El estudiante javier con cédula: 456 	Se ha matriculado en el curso llamado Frontend con REACT.js 	que tiene una duracón de 32 y un valoir de 1500000 
